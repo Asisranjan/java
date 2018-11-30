@@ -1,0 +1,2 @@
+-buildpath: osgi.core
+Bundle-Activator: org.dde.demo.Activator
